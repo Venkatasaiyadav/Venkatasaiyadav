@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="cover.png" alt="Banner" />
+</p>
+
 # Hi 👋 I'm Udatha Venkatasai
 
 ### Backend Engineer | Java • Spring Boot • Microservices • AI/LLM Applications
