@@ -75,5 +75,12 @@ Gemini AI | RAG | Pinecone | ChromaDB | MCP
 
 ## 📫 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN_URL
-- GitHub: YOUR_GITHUB_URL
+<p align="left">
+  <a href="https://www.linkedin.com/in/udatha-venkatasai-29242b284/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/Venkatasaiyadav" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
