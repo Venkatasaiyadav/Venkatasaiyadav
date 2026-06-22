@@ -11,10 +11,8 @@
 
 
 
-<h3>🛠️ Skills</h3>
-
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,mongodb,postgres,redis,rabbitmq,kafka,docker,aws,react,nextjs,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mongodb,postgres,redis,kafka,docker,aws,react,nextjs" />
 </p>
 
 
