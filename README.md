@@ -26,25 +26,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatasaiyadav&layout=compact&theme=tokyonight)
 
-## 🛠️ Tech Stack
-
-### Backend
-Java | Spring Boot | Spring Security | Microservices
-
-### Database
-MongoDB | PostgreSQL | MySQL | Redis
-
-### Messaging
-Kafka | RabbitMQ
-
-### Cloud & DevOps
-AWS EC2 | Docker | GitHub Actions
-
-### Frontend
-React.js | Next.js | Electron.js
-
-### AI
-Gemini AI | RAG | Pinecone | ChromaDB | MCP
 
 
 ## 📊 GitHub Stats
